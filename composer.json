@@ -1,0 +1,21 @@
+{
+    "name": "dorantor/filelock",
+    "description": "Simple php library providing OOP-interface to file locks.",
+    "keywords": [
+        "php",
+        "flock",
+        "file",
+        "lock"
+    ],
+    "homepage": "https://github.com/dorantor/filelock/",
+    "type": "library",
+    "license": "MIT",
+    "require": {
+        "php": "^5.3|^7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Dorantor\\" : "src"
+        }
+    }
+}
