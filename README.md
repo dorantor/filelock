@@ -1,4 +1,7 @@
 # FileLock
+[![Latest Stable Version](https://poser.pugx.org/dorantor/filelock/v/stable)](https://packagist.org/packages/dorantor/filelock)
+[![License](https://poser.pugx.org/dorantor/filelock/license)](https://packagist.org/packages/dorantor/filelock)
+
 Simple php library providing OOP-interface to file locks.
 
 ## Installation
