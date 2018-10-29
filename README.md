@@ -1,4 +1,8 @@
 # FileLock
+
+[![Build Status](https://travis-ci.com/dorantor/filelock.svg?branch=master&1)](https://travis-ci.org/dorantor/filelock)
+[![Total Downloads](http://img.shields.io/packagist/dt/dorantor/filelock.svg?1)](https://packagist.org/packages/dorantor/filelock)
+[![Coverage Status](https://coveralls.io/repos/github/dorantor/filelock/badge.svg?branch=master&1)](https://coveralls.io/github/dorantor/filelock?branch=master)
 [![Latest Stable Version](https://poser.pugx.org/dorantor/filelock/v/stable)](https://packagist.org/packages/dorantor/filelock)
 [![License](https://poser.pugx.org/dorantor/filelock/license)](https://packagist.org/packages/dorantor/filelock)
 
