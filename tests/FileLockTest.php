@@ -1,5 +1,7 @@
 <?php
 
+use PHPUnit\Framework\TestCase;
+
 $fname = 'tests/lock-test.txt';
 
 //create file
@@ -10,7 +12,7 @@ fclose($handle);
 echo PHP_EOL .'Test file "'.$fname.'" created ['.date('d.m.Y H:i:s').']. FileSize: '.filesize($fname).' bytes.'. PHP_EOL . PHP_EOL; 
 
 
-class FileLockTest extends PHPUnit_Framework_TestCase {
+class FileLockTest extends TestCase {
 
 	public function testCanBeLocked() {
 
